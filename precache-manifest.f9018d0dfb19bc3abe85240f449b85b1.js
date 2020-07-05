@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "083014e763f63c59eae5",
-    "url": "/css/app.80afd824.css"
+    "revision": "91a7eb8357b6ca81d936",
+    "url": "/css/app.8b918f3a.css"
   },
   {
     "revision": "c27a81fcd666a790497e",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/kisspng-earth-planet-icon-space-planet-png-hd-5a7844ad9b0f15.2487239715178313416351.ab14e31a.png"
   },
   {
-    "revision": "360ed6eac5e85403b504cb4aab6b8af9",
+    "revision": "f51e01e3b7f7f816d4f85beb49abac8f",
     "url": "/index.html"
   },
   {
-    "revision": "083014e763f63c59eae5",
-    "url": "/js/app.9b82d6b8.js"
+    "revision": "91a7eb8357b6ca81d936",
+    "url": "/js/app.581e5e7e.js"
   },
   {
     "revision": "c27a81fcd666a790497e",
